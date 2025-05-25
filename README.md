@@ -26,7 +26,7 @@
 ### 📫 How to reach me
 - LinkedIn: [Yash Bhosale](https://www.linkedin.com/in/yash-bhosale-22ba351ab/)
 - Instagram: [@light_yash](https://www.instagram.com/light_yash)
-- Email: yash.sudhir.bhosale@capgemini.com
+- Email: yashbhosale555@gmail.com
  
 ### 📌 Pinned Repositories
 - [BlogAppRestApi](https://github.com/LightYash-06/BlogAppRestApi)
