@@ -13,7 +13,7 @@
  
 ### 🌱 I’m currently learning
 - Microservices architecture
-- SpringORM
+- Apache Kafka and RabbitMQ
 - CI/CD pipelines and DevOps basics
  
 ### 💻 Tech Stack
