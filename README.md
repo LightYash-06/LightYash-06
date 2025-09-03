@@ -45,11 +45,7 @@ I'm a backend engineer specializing in **cloud-native microservices**, secure RE
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LightYash-06&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
-</p>
 
 ---
 
