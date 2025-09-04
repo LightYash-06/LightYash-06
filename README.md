@@ -54,7 +54,7 @@ I'm a backend engineer specializing in **cloud-native microservices**, secure RE
 
 - 🔐 [BlogAppRestApi](https://github.com/LightYash-06/BlogAppRestApi)  
 - 📇 [Smart Contact Manager](https://github.com/LightYash-06/Smart-Contact-Manager)  
-- 🔒 [SpringSecurityProject](https://github.com/LightYash-06/SpringSecurityProject)  
+- 🔒 [Ecomm_MicroServices_Architecture](https://github.com/LightYash-06/Ecommerce_MicroServicesArchitecture)  
 
 ---
 
