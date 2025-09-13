@@ -53,9 +53,9 @@ I'm a backend engineer specializing in **cloud-native microservices**, secure RE
 ### 📌 Pinned Repositories
 
 - 🔐 [BlogAppRestApi](https://github.com/LightYash-06/BlogAppRestApi)  
-- 📇 [PatientManagemnetSystem](https://github.com/LightYash-06/PatientManagementSystem)  
+- 📇 [PatientManagemnetSystem](https://github.com/LightYash-06/PatientManagementSystem)
 - 🔒 [Ecomm_MicroServices_Architecture](https://github.com/LightYash-06/Ecommerce_MicroServicesArchitecture)  
-
+- 📈 [Trading_Platform](https://github.com/LightYash-06/Trading_Platform)
 ---
 
 
