@@ -8,41 +8,66 @@
 
 ### 🚀 About Me
 
-I'm a backend engineer specializing in **cloud-native microservices**, secure REST APIs, and scalable distributed systems. I thrive on building resilient architectures using **Java, Spring Boot, Kafka, and Kubernetes**, and I’m passionate about clean code, fault tolerance, and system design.
+I’m a **Senior Software Engineer** with expertise in **cloud-native microservices**, **event-driven architectures**, and **secure, high-performance backend systems**.  
+Passionate about designing scalable solutions using **Java, Spring Boot, Spring Cloud, Kafka, Docker, and Kubernetes**, I focus on **clean architecture, resilience, and fault tolerance** in distributed systems.
 
 ---
 
-### 🔭 I’m Currently Working On
+### 💼 Experience
 
-- Building robust Spring Boot applications  
-- Securing REST APIs with **Spring Security, OAuth 2.0, and JWT**  
-- Learning **Docker & Kubernetes** for containerization and deployment  
+**Senior Software Engineer** @ *Capgemini Technology Services* (Dec 2022 – Present)  
+- Designed **resilient microservices** with Spring Boot, Spring Cloud (Eureka, Config Server, Gateway).  
+- Built **secure REST APIs** with Spring Security, OAuth2, JWT, and RBAC.  
+- Developed **high-throughput APIs** using gRPC and Protocol Buffers.  
+- Engineered **event-driven pipelines** with Kafka and Schema Registry.  
+- Implemented **Resilience4j patterns** (circuit breakers, retries, rate limiting, bulkheads).  
+- Automated deployments with **Docker, Kubernetes, and GitHub Actions**.  
+- Enabled **distributed tracing** with Sleuth & Zipkin.  
 
 ---
 
 ### 🌱 I’m Currently Learning
 
-- Advanced Microservices Design Patterns  
-- Apache Kafka & RabbitMQ  
-- CI/CD Pipelines & DevOps Automation  
-- System Design for High-Scale Applications  
+- Advanced **Microservices Design Patterns**  
+- **Apache Kafka & RabbitMQ** for messaging  
+- **CI/CD pipelines** & DevOps automation  
+- **System Design** for high-scale applications  
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 - **Languages**: Java, Python, JavaScript, SQL  
-- **Frameworks**: Spring Boot, Spring Security, Spring Cloud, Hibernate, JPA  
+- **Frameworks**: Spring Boot, Spring Security, Spring Cloud, Hibernate, JPA, REST APIs  
+- **Frontend**: ReactJS, AngularJS  
 - **Architecture**: Microservices, Event-Driven Systems, gRPC, API Gateway, Resilience4j  
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions  
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis  
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
 - **Security**: OAuth 2.0, JWT, RBAC, Keycloak  
-- **Monitoring**: Spring Cloud Sleuth, Zipkin  
-- **Others**: Git, Postman, Swagger/OpenAPI  
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions  
+- **Monitoring**: Sleuth, Zipkin  
+- **Others**: Git, Swagger/OpenAPI, Postman  
 
 ---
 
-### 📫 How to Reach Me
+### 📌 Featured Projects
+
+- 🔐 [**BlogAppRestApi**](https://github.com/LightYash-06/BlogAppRestApi) – Real-time blog backend with Spring Boot 3, JWT, and MySQL.  
+- 📇 [**PatientManagementSystem**](https://github.com/LightYash-06/PatientManagementSystem) – Healthcare microservices with gRPC, Kafka & Docker.  
+- 🔒 [**Ecomm_MicroServices_Architecture**](https://github.com/LightYash-06/Ecommerce_MicroServicesArchitecture) – Cloud-native e-commerce platform with Spring Cloud & Kafka.  
+- 📈 [**Trading_Platform**](https://github.com/LightYash-06/Trading_Platform) – Full-stack crypto trading app with Spring Boot & React.  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LightYash-06&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LightYash-06&theme=radical" alt="streaks" />
+</p>
+
+---
+
+### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-bhosale-22ba351ab/)  
 - 📷 [Instagram](https://www.instagram.com/light_yash)  
@@ -50,13 +75,4 @@ I'm a backend engineer specializing in **cloud-native microservices**, secure RE
 
 ---
 
-### 📌 Pinned Repositories
-
-- 🔐 [BlogAppRestApi](https://github.com/LightYash-06/BlogAppRestApi)  
-- 📇 [PatientManagemnetSystem](https://github.com/LightYash-06/PatientManagementSystem)
-- 🔒 [Ecomm_MicroServices_Architecture](https://github.com/LightYash-06/Ecommerce_MicroServicesArchitecture)  
-- 📈 [Trading_Platform](https://github.com/LightYash-06/Trading_Platform)
----
-
-
-> 🧠 **"Consistency and curiosity fuel growth."**
+> 🧠 *"Consistency and curiosity fuel growth."*
